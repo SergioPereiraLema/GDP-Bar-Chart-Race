@@ -1,0 +1,124 @@
+﻿Value,Type
+Spain,Country
+Noroeste (ES),NUT1
+Galicia,NUT2
+A Coruña,NUT3
+Lugo,NUT3
+Ourense,NUT3
+Pontevedra,NUT3
+Principado de Asturias,Region
+Asturias,NUT3
+Cantabria,Region
+Cantabria,NUT3
+Noreste (ES),NUT1
+País Vasco,NUT2
+Araba/Álava,NUT3
+Gipuzkoa,NUT3
+Bizkaia,NUT3
+Comunidad Foral de Navarra,NUT2
+Navarra,NUT3
+La Rioja,NUT2
+La Rioja,NUT3
+Aragón,NUT2
+Huesca,NUT3
+Teruel,NUT3
+Zaragoza,NUT3
+Comunidad de Madrid,NUT1
+Comunidad de Madrid,NUT2
+Madrid,NUT3
+Centro (ES),NUT1
+Castilla y León,NUT2
+Ávila,NUT3
+Burgos,NUT3
+León,NUT3
+Palencia,NUT3
+Salamanca,NUT3
+Segovia,NUT3
+Soria,NUT3
+Valladolid,NUT3
+Zamora,NUT3
+Castilla-la Mancha,NUT2
+Albacete,NUT3
+Ciudad Real,NUT3
+Cuenca,NUT3
+Guadalajara,NUT3
+Toledo,NUT3
+Extremadura,NUT2
+Badajoz,NUT3
+Cáceres,NUT3
+Este (ES),NUT1
+Cataluña,NUT2
+Barcelona,NUT3
+Girona,NUT3
+Lleida,NUT3
+Tarragona,NUT3
+Comunitat Valenciana,NUT2
+Alicante/Alacant,NUT3
+Castellón/Castelló,NUT3
+Valencia/València,NUT3
+Illes Balears,NUT2
+"Eivissa, Formentera",NUT3
+Mallorca,NUT3
+Menorca,NUT3
+Sur (ES),NUT1
+Andalucía,NUT2
+Almería,NUT3
+Cádiz,NUT3
+Córdoba,NUT3
+Granada,NUT3
+Huelva,NUT3
+Jaén,NUT3
+Málaga,NUT3
+Sevilla,NUT3
+Región de Murcia,NUT2
+Murcia,NUT3
+Ciudad de Ceuta,NUT2
+Ceuta,NUT3
+Ciudad de Melilla,NUT2
+Melilla,NUT3
+Canarias,NUT1
+Canarias,NUT2
+El Hierro,NUT3
+Fuerteventura,NUT3
+Gran Canaria,NUT3
+La Gomera,NUT3
+La Palma,NUT3
+Lanzarote,NUT3
+Tenerife,NUT3
+European Union - 27 countries (from 2020),Country
+Portugal,Country
+Continente,NUT1
+Norte,NUT2
+Alto Minho,NUT3
+Cávado,NUT3
+Ave,NUT3
+Área Metropolitana do Porto,NUT3
+Alto Tâmega,NUT3
+Tâmega e Sousa,NUT3
+Douro,NUT3
+Terras de Trás-os-Montes,NUT3
+Algarve,NUT2
+Algarve,NUT3
+Centro (PT),NUT2
+Oeste,NUT3
+Região de Aveiro,NUT3
+Região de Coimbra,NUT3
+Região de Leiria,NUT3
+Viseu Dão Lafões,NUT3
+Beira Baixa,NUT3
+Médio Tejo,NUT3
+Beiras e Serra da Estrela,NUT3
+Área Metropolitana de Lisboa,NUT2
+Área Metropolitana de Lisboa,NUT3
+Alentejo,NUT2
+Alentejo Litoral,NUT3
+Baixo Alentejo,NUT3
+Lezíria do Tejo,NUT3
+Alto Alentejo,NUT3
+Alentejo Central,NUT3
+Região Autónoma dos Açores (PT),NUT1
+Região Autónoma dos Açores (PT),NUT2
+Região Autónoma dos Açores (PT),NUT3
+Região Autónoma da Madeira (PT),NUT1
+Região Autónoma da Madeira (PT),NUT2
+Região Autónoma da Madeira (PT),NUT3
